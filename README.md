@@ -3,6 +3,9 @@
 # NEZUR AKA "NEXUS"
 Advanced executor that uses the NEXUS API
 
+# Nezur, the future of roblox exploiting
+# Our features are completely undetected, such as aimbot, aimlock, a spoofer, and triggerbot.
+
 # Features
 * Autoinject
 * Cloud based Script Hub with search!
@@ -28,5 +31,4 @@ Example: <br />
 print("hi") <br />
 test <br />
 alluuzx <br />
-11 <br />
-https://imgs.search.brave.com/N8KH6PsRTje8nddhSZuL47g4FE3BrKbP45jNnjkJ0bI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS81/MDQ3MjM2NTM2MGE3/YjI0Nzc2ZDhhODJj/MjM1YmJiNmMzZGE4/OGU0NmM4YzQ1M2Q3/ZGEzNTc1MGU0YzYy/ODA2LzY4NzQ3NDcw/NzMzYTJmMmY2OTJl/Nzk3NDY5NmQ2NzJl/NjM2ZjZkMmY3NjY5/MmY2ZDQ1NjI1ODQ2/NmU1MjdhNTA2ZTQ5/MmY2ODcxMzczMjMw/MmU2YTcwNjc <br />
+\\
